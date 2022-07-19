@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aae83397-698b-45ad-9c61-f5e12fa3f0b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../jpashop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jpql/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jpql/JpaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jpql/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jpql/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jpql/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jpql/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpashop/src/main/java/jpabook/jpashop/JpaMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2C6ONcBrLfzBeffCpBWzMBOmUp1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jpashop" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jpql" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\study\jpql\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JpaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpql.JpaMain" />
+      <module name="jpql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JpaMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aae83397-698b-45ad-9c61-f5e12fa3f0b0" name="Default Changelist" comment="" />
+      <created>1658119528525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658119528525</updated>
+      <workItem from="1658119531610" duration="837000" />
+      <workItem from="1658200842893" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2894" y="88" key="#Project_Structure" timestamp="1658119581930">
+      <screen x="2560" y="0" width="1707" height="1027" />
+    </state>
+    <state x="2894" y="88" key="#Project_Structure/0.0.1707.1027/2560.0.1707.1027@2560.0.1707.1027" timestamp="1658119581930" />
+    <state x="3219" y="198" key="#com.intellij.ide.util.MemberChooser" timestamp="1658201361737">
+      <screen x="2560" y="0" width="1707" height="1027" />
+    </state>
+    <state x="3219" y="198" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1027/2560.0.1707.1027@2560.0.1707.1027" timestamp="1658201361737" />
+    <state x="3194" y="269" key="FileChooserDialogImpl" timestamp="1658200921690">
+      <screen x="2560" y="0" width="1707" height="1027" />
+    </state>
+    <state x="3194" y="269" key="FileChooserDialogImpl/0.0.1707.1027/2560.0.1707.1027@2560.0.1707.1027" timestamp="1658200921690" />
+    <state width="1663" height="393" key="GridCell.Tab.0.bottom" timestamp="1658201469179">
+      <screen x="2560" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="393" key="GridCell.Tab.0.bottom/0.0.1707.1027/2560.0.1707.1027@2560.0.1707.1027" timestamp="1658201469179" />
+    <state width="1663" height="393" key="GridCell.Tab.0.center" timestamp="1658201469179">
+      <screen x="2560" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="393" key="GridCell.Tab.0.center/0.0.1707.1027/2560.0.1707.1027@2560.0.1707.1027" timestamp="1658201469179" />
+    <state width="1663" height="393" key="GridCell.Tab.0.left" timestamp="1658201469179">
+      <screen x="2560" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="393" key="GridCell.Tab.0.left/0.0.1707.1027/2560.0.1707.1027@2560.0.1707.1027" timestamp="1658201469179" />
+    <state width="1663" height="393" key="GridCell.Tab.0.right" timestamp="1658201469179">
+      <screen x="2560" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="393" key="GridCell.Tab.0.right/0.0.1707.1027/2560.0.1707.1027@2560.0.1707.1027" timestamp="1658201469179" />
+  </component>
+</project>
