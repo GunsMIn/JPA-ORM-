@@ -11,7 +11,7 @@ import java.util.Date;
 public class Member {
 
 
-    @Id
+    @Id //pk값
     @GeneratedValue(strategy =GenerationType.AUTO)
     private Long id;
 
@@ -20,8 +20,17 @@ public class Member {
 
     private Integer age;
 
+    @Enumerated(EnumType.STRING)
+    private RoleType roleType; // user/manager
+
+    @Embedded
+    private Period workPeriod;
+
+    private Address homeAddress;
 
 
+    @Lob // varchar 보다 큰 문자열을 사용하고 싶을때
+    private String description;
 
    /* @Enumerated(EnumType.STRING)//디비에는 enum이없어서
     private RoleType roleType;
@@ -41,8 +50,8 @@ public class Member {
     //• 주로 메모리상에서만 임시로 어떤 값을 보관하고 싶을 때 사용
     //private Integer temp;
 
-    public Member(){
-    }
+    public Member(){;}
+
 
 
 }
